@@ -22,7 +22,7 @@ export const Header = styled.View`
     height: ${RFValue(130)}px;
     align-items: center;
     justify-content: center;
-    padding: ${RFValue(20)}px;l
+    padding: ${RFValue(20)}px;
 `;
 
 export const Logo = styled.Image`

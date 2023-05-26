@@ -1,10 +1,10 @@
 import { RFValue } from "react-native-responsive-fontsize";
-
 import styled, { css } from "styled-components/native";
-import { TextInput } from "react-native-paper";
+import { Checkbox } from "react-native-paper";
 
 export const Container = styled.View`
-    width: 80%;
+    width: 90%;
 `;
 
-export const PaperImput = styled(TextInput)``;
+export const PaperCheckbox = styled(Checkbox.Item)``;
+
